@@ -1,5 +1,6 @@
 <p align="center">
-    preview do podcast
+    preview do podcast " Viver Melhor com Ju Ferreira"
+Ep 01: Bolinho de Banana com Nozes
 </p>
 
 <div align="center">
