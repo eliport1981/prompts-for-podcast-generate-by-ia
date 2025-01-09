@@ -4,15 +4,11 @@
 </p>
 Ep 01: Bolinho de Banana com Nozes
 </p>
-<a href="/output/Ep01_bolinho_banana.mp4"/></a>
+<a href="/output/Ep01_bolinho_banana.mp4"/>Escute ao podcast ⬆️</a>
 </div>
 
 <div align="center">
-<a href="./output/One_Web-A_saga_da_acessibilidade_digital.mp3">Escute ao podcast ⬆️</a>
-</div>
-
-<div align="center">
-    <audio src="output/ep01_bolinho_banana.MP4" controls title="Pod Cast Viver Melhor:Episódio 01 _ bolinho de banana"></audio>
+    <audio src="/output/ep01_bolinho_banana.MP4" controls title="Pod Cast Viver Melhor:Episódio 01 _ bolinho de banana"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
