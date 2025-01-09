@@ -1,3 +1,18 @@
+<div align="center">
+<img src="./assets/cover.png" width="300" />
+<h3>One Web - A saga da acessibilidade digital</h3>
+<a href="./output/One_Web-A_saga_da_acessibilidade_digital.mp3"><img src="./assets/player.png" width="300" /></a>
+</div>
+
+<div align="center">
+<a href="./output/One_Web-A_saga_da_acessibilidade_digital.mp3">Escute ao podcast ⬆️</a>
+</div>
+
+<br />
+
+
+
+
 <p align="center">
     preview do podcast " Viver Melhor com Ju Ferreira"
 Ep 01: Bolinho de Banana com Nozes
