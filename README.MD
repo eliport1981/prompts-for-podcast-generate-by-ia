@@ -4,7 +4,7 @@
 </p>
 Ep 01: Bolinho de Banana com Nozes
 </p>
-<a href="./output/One_Web-A_saga_da_acessibilidade_digital.mp3"><img src="./assets/player.png" width="300" /></a>
+<a href="/output/Ep01_bolinho_banana.mp4"/></a>
 </div>
 
 <div align="center">
