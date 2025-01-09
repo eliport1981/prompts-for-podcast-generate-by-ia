@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_ep01_bolinho_banana.MP4" controls title="Pod Cast Viver Melhor:Episódio 01 _ bolinho de banana"></audio>
+    <audio src="output/ep01_bolinho_banana.MP4" controls title="Pod Cast Viver Melhor:Episódio 01 _ bolinho de banana"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
