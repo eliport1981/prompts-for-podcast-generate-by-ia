@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/assets/Capa podcast.jpeg" width="300" />
+<img src=".assets/Capa podcast.jpeg" width="300" />
 <h3>" PodCAst Viver Melhor com Ju Ferreira"</h3>
 </p>
 Ep 01: Bolinho de Banana com Nozes
